@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="MODELO CONCEITUAL OFICIAL" id="D87B02E9-D806-2795-4F8D-110255278FDB" version="3.5">
+<createdBy>LENOVO</createdBy>
+<createdTime>2026-05-11 13:55:36 UTC</createdTime>
+<ownerDesignName>MODELO CONCEITUAL OFICIAL</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>D87B02E9-D806-2795-4F8D-110255278FDB</designId>
+</OSDM_Design>
